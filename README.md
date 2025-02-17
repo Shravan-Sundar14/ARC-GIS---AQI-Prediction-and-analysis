@@ -46,10 +46,15 @@ https://umass-amherst.maps.arcgis.com/apps/dashboards/d5ad22362ce149f0a880437cce
 
 📌 ArcGIS Notebooks & Data Layers
 Filter 1: https://umass-amherst.maps.arcgis.com/home/item.html?id=1f1ee25259ca4d6291bcd3c0b40c89cb
+
 Filter 2: https://umass-amherst.maps.arcgis.com/home/item.html?id=fc6ab13d6b284daf86b7ce35f4c16b54
+
 Interpolation Filter: https://umass-amherst.maps.arcgis.com/home/item.html?id=92c1e1cf04474dd981d48705e8bbedab
+
 Max Density Filter: https://umass-amherst.maps.arcgis.com/home/item.html?id=22d98cbe7ed54403b21ed8ea19acd290
+
 Final Notebook: https://umass-amherst.maps.arcgis.com/home/notebook/notebook.html?id=c1d80286d3d348209b6c9a836bcd8e23
+
 👨‍💻 Author
 
 Shravan Sundar Ravi – Data Analyst & Geospatial Data Enthusiast
